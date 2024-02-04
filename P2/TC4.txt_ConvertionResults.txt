@@ -1,0 +1,81 @@
+Number: -39, Binary: , Hexadecimal: 
+Number: -36, Binary: , Hexadecimal: 
+Number: 8, Binary: 1000, Hexadecimal: 8
+Number: 34, Binary: 100010, Hexadecimal: 22
+Number: 17, Binary: 10001, Hexadecimal: 11
+Number: 49, Binary: 110001, Hexadecimal: 31
+Number: 5, Binary: 101, Hexadecimal: 5
+Number: 0, Binary: , Hexadecimal: 
+Number: 33, Binary: 100001, Hexadecimal: 21
+Number: 12, Binary: 1100, Hexadecimal: C
+Number: -6, Binary: , Hexadecimal: 
+Number: 27, Binary: 11011, Hexadecimal: 1B
+Number: -4, Binary: , Hexadecimal: 
+Number: -38, Binary: , Hexadecimal: 
+Number: 26, Binary: 11010, Hexadecimal: 1A
+Number: 49, Binary: 110001, Hexadecimal: 31
+Number: 29, Binary: 11101, Hexadecimal: 1D
+Number: 42, Binary: 101010, Hexadecimal: 2A
+Number: -16, Binary: , Hexadecimal: 
+Number: 34, Binary: 100010, Hexadecimal: 22
+Number: 20, Binary: 10100, Hexadecimal: 14
+Number: 0, Binary: , Hexadecimal: 
+Number: 25, Binary: 11001, Hexadecimal: 19
+Number: 45, Binary: 101101, Hexadecimal: 2D
+Number: 3, Binary: 11, Hexadecimal: 3
+Number: -46, Binary: , Hexadecimal: 
+Number: -46, Binary: , Hexadecimal: 
+Number: 29, Binary: 11101, Hexadecimal: 1D
+Number: 33, Binary: 100001, Hexadecimal: 21
+Number: 29, Binary: 11101, Hexadecimal: 1D
+Number: 26, Binary: 11010, Hexadecimal: 1A
+Number: -5, Binary: , Hexadecimal: 
+Number: -36, Binary: , Hexadecimal: 
+Number: 12, Binary: 1100, Hexadecimal: C
+Number: 45, Binary: 101101, Hexadecimal: 2D
+Number: -50, Binary: , Hexadecimal: 
+Number: 0, Binary: , Hexadecimal: 
+Number: -6, Binary: , Hexadecimal: 
+Elapsed Time: 0.017755985260009766 seconds
+Number: -39, Binary: 11111111111111111111111111011001, Hexadecimal: FFFFFFD9
+Number: -36, Binary: 11111111111111111111111111011100, Hexadecimal: FFFFFFDC
+Number: 8, Binary: 1000, Hexadecimal: 8
+Number: 34, Binary: 100010, Hexadecimal: 22
+Number: 17, Binary: 10001, Hexadecimal: 11
+Number: 49, Binary: 110001, Hexadecimal: 31
+Number: 5, Binary: 101, Hexadecimal: 5
+Number: ABC, Binary: #VALUE!, Hexadecimal: #VALUE!
+Number: 0, Binary: , Hexadecimal: 
+Number: 33, Binary: 100001, Hexadecimal: 21
+Number: 12, Binary: 1100, Hexadecimal: C
+Number: -6, Binary: 11111111111111111111111111111010, Hexadecimal: FFFFFFFA
+Number: 27, Binary: 11011, Hexadecimal: 1B
+Number: -4, Binary: 11111111111111111111111111111100, Hexadecimal: FFFFFFFC
+Number: -38, Binary: 11111111111111111111111111011010, Hexadecimal: FFFFFFDA
+Number: 26, Binary: 11010, Hexadecimal: 1A
+Number: 49, Binary: 110001, Hexadecimal: 31
+Number: 29, Binary: 11101, Hexadecimal: 1D
+Number: 42, Binary: 101010, Hexadecimal: 2A
+Number: -16, Binary: 11111111111111111111111111110000, Hexadecimal: FFFFFFF0
+Number: ERR, Binary: #VALUE!, Hexadecimal: #VALUE!
+Number: 34, Binary: 100010, Hexadecimal: 22
+Number: 20, Binary: 10100, Hexadecimal: 14
+Number: 0, Binary: , Hexadecimal: 
+Number: 25, Binary: 11001, Hexadecimal: 19
+Number: 45, Binary: 101101, Hexadecimal: 2D
+Number: 3, Binary: 11, Hexadecimal: 3
+Number: -46, Binary: 11111111111111111111111111010010, Hexadecimal: FFFFFFD2
+Number: -46, Binary: 11111111111111111111111111010010, Hexadecimal: FFFFFFD2
+Number: 29, Binary: 11101, Hexadecimal: 1D
+Number: 33, Binary: 100001, Hexadecimal: 21
+Number: 29, Binary: 11101, Hexadecimal: 1D
+Number: 26, Binary: 11010, Hexadecimal: 1A
+Number: -5, Binary: 11111111111111111111111111111011, Hexadecimal: FFFFFFFB
+Number: -36, Binary: 11111111111111111111111111011100, Hexadecimal: FFFFFFDC
+Number: 12, Binary: 1100, Hexadecimal: C
+Number: 45, Binary: 101101, Hexadecimal: 2D
+Number: -50, Binary: 11111111111111111111111111001110, Hexadecimal: FFFFFFCE
+Number: 0, Binary: , Hexadecimal: 
+Number: -6, Binary: 11111111111111111111111111111010, Hexadecimal: FFFFFFFA
+Number: VAL, Binary: #VALUE!, Hexadecimal: #VALUE!
+Elapsed Time: 0.01429605484008789 seconds
