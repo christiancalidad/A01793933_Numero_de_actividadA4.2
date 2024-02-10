@@ -1,0 +1,52 @@
+Result:
+    SALE_ID SALE_Date                         Product  Quantity  Price  Subtotal
+0         1  01/12/23                Rustic breakfast         1  21.32     21.32
+1         8  02/12/23                Rustic breakfast         2  21.32     42.64
+2         1  01/12/23             Sandwich with salad         2  22.48     44.96
+3         9  02/12/23             Sandwich with salad         3  22.48     67.44
+4         1  01/12/23                      Raw legums         1  17.11     17.11
+5         9  02/12/23                      Raw legums        20  17.11    342.20
+6         2  01/12/23                 Fresh stawberry         1  28.59     28.59
+7         9  02/12/23                 Fresh stawberry         4  28.59    114.36
+8         2  01/12/23                     Pears juice         2  19.49     38.98
+9         9  02/12/23                     Pears juice         1  19.49     19.49
+10        3  01/12/23                  Green smoothie         3  17.68     53.04
+11        5  01/12/23                  Green smoothie         2  17.68     35.36
+12        7  01/12/23                  Green smoothie         4  17.68     70.72
+13        9  02/12/23                  Green smoothie         8  17.68    141.44
+14       10  02/12/23                  Green smoothie         5  17.68     88.40
+15        3  01/12/23                 Cuban sandwiche         2  18.50     37.00
+16        9  02/12/23                 Cuban sandwiche         9  18.50    166.50
+17        3  01/12/23  Hazelnut in black ceramic bowl         2  27.35     54.70
+18        6  01/12/23  Hazelnut in black ceramic bowl         2  27.35     54.70
+19        8  01/12/23  Hazelnut in black ceramic bowl         1  27.35     27.35
+20       10  02/12/23  Hazelnut in black ceramic bowl         2  27.35     54.70
+21        4  01/12/23                        Tomatoes         1  26.03     26.03
+22       10  02/12/23                        Tomatoes         1  26.03     26.03
+23        4  01/12/23                           Plums         1  19.18     19.18
+24        7  01/12/23                           Plums         1  19.18     19.18
+25       10  02/12/23                           Plums         2  19.18     38.36
+26        4  01/12/23               Fresh blueberries         2  21.01     42.02
+27        7  01/12/23               Fresh blueberries         2  21.01     42.02
+28       10  02/12/23               Fresh blueberries         3  21.01     63.03
+29        5  01/12/23                            Corn         3  13.55     40.65
+30        6  01/12/23                            Corn         1  13.55     13.55
+31        7  01/12/23                            Corn         1  13.55     13.55
+32        8  02/12/23                            Corn        10  13.55    135.50
+33       10  02/12/23                            Corn         4  13.55     54.20
+34        5  01/12/23                    French fries         1  18.32     18.32
+35        7  01/12/23                    French fries         2  18.32     36.64
+36        6  01/12/23         Ground beef meat burger         1  11.73     11.73
+37        8  01/12/23         Ground beef meat burger         3  11.73     35.19
+38        6  01/12/23                          Cherry         2  14.35     28.70
+39        8  01/12/23                          Cherry         2  14.35     28.70
+40        6  01/12/23                  Homemade bread         1  17.48     17.48
+41        8  02/12/23                  Homemade bread         5  17.48     87.40
+42        6  01/12/23        Smoothie with chia seeds         1  25.26     25.26
+43        8  02/12/23        Smoothie with chia seeds         2  25.26     50.52
+44        6  01/12/23               Peaches on branch         2  25.62     51.24
+45        6  01/12/23                Pesto with basil         2  18.19     36.38
+_______________________________________________________
+Gran total: 2481.86
+_______________________________________________________
+Elapsed Time: 0.004003047943115234 seconds
