@@ -94,6 +94,14 @@ class HotelTest(unittest.TestCase):
             self.hotel.create_hotel(name='Hotel Buenavista', adress='Calle 65')
             self.assertTrue('Missing arguments' in context.exception)
 
+    def test_miss_eliminating(self):
+        """test raising excepcion for tryng to delete a customer that is not created
+        """
+        with self.assertRaises(Exception) as context:
+            self.hotel.delete_hotel()
+            self.assertTrue('No hotel created, impossible to delete it' in context.exception)
+    
+
 
 if __name__ == '__main__':
     unittest.main()

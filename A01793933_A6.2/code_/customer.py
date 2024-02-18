@@ -28,9 +28,12 @@ class Customer:
     def delete_customer(self):
         """Eliminate customer
         """
-        self.name = None
-        self.id_customer = None
-        self.gender = None
+        if self.name is not None:
+            self.name = None
+            self.id_customer = None
+            self.gender = None
+        else:
+            raise Exception('No customer created, impossible to delete it')
 
     def display_customer_info(self):
         """Prints current customer data

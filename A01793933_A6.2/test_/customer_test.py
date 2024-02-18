@@ -60,6 +60,14 @@ class CustomerTest(unittest.TestCase):
             self.customer.create_customer(name='Juan', id_customer=10566474)
             self.assertTrue('Missing arguments' in context.exception)
 
+    def test_miss_eliminating(self):
+        """test raising excepcion for tryng to delete a customer that is not created
+        """
+        with self.assertRaises(Exception) as context:
+            self.customer.delete_customer()
+            self.assertTrue('No customer created, impossible to delete it' in context.exception)
+    
+
 
 if __name__ == '__main__':
     unittest.main()

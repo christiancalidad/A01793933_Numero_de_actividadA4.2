@@ -32,12 +32,15 @@ class Hotel:
     def delete_hotel(self):
         """delete the current hotel data
         """
-        self.name = None
-        self.adress = None
-        self.rooms = []
-        self.reservations = {}
-        self.avaliable_rooms = 0
-        self.bussy_rooms = 0
+        if self.name is not None:
+            self.name = None
+            self.adress = None
+            self.rooms = []
+            self.reservations = {}
+            self.avaliable_rooms = 0
+            self.bussy_rooms = 0
+        else:
+            raise Exception('No customer created, impossible to delete it')
 
     def display_hotel_info(self):
         """Prints the current hotel data
